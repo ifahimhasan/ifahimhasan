@@ -40,17 +40,34 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 
 **Front-End & Modern Web** *(growing)*
 <p>
-  <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript (ES6+)</code> • <code>TypeScript</code> • <code>React</code> • <code>Next.js</code> • <code>Responsive & mobile-first</code>
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design"/>
 </p>
 
 **CMS, E-commerce & Design** *(core expertise)*
 <p>
-  <code>WordPress</code> • <code>Elementor & Elementor Pro</code> • <code>WooCommerce</code> • <code>Shopify</code> • <code>Figma</code> • <code>UI/UX Design</code> • <code>PHP</code> • <code>MySQL</code>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+  <img src="https://img.shields.io/badge/Shopify-96BE04?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 **Tools & Workflow**
 <p>
-  <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Chrome DevTools</code> • <code>cPanel</code> • <code>phpMyAdmin</code> • <code>GSAP</code>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6B6B?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 </p>
 
 | Area | Skills |
