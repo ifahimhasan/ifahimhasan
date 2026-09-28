@@ -4,11 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="./assets/buttons/btn-linkedin.png" height="44" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://wa.me/8801986862937"><img src="./assets/buttons/btn-whatsapp.png" height="44" alt="WhatsApp"/></a>
+  &nbsp;
+  <a href="https://discord.com/"><img src="./assets/buttons/btn-discord.png" height="44" alt="Discord: ifahimhasan"/></a>
+  &nbsp;
+  <a href="https://ifahimhasan.com"><img src="./assets/buttons/btn-portfolio.png" height="44" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://github.com/ifahimhasan/ifahimhasan/raw/main/assets/Fahim_Hasan_Resume.pdf"><img src="./assets/buttons/btn-resume.png" height="44" alt="Download Resume"/></a>
 </p>
+<p align="center"><sub>Discord: <code>ifahimhasan</code> — search this username to add me</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=WordPress+%26+Elementor+Pro+Expert;Front-End+Developer+%7C+React+%26+Next.js;UI%2FUX+Designer+%7C+Figma;Learning+Full-Stack+Development+in+Public;Open+to+Remote+Opportunities+Worldwide" alt="Typing animation of roles"/>
@@ -32,29 +38,40 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 
 ## 🛠️ Tech Stack
 
-### Front-End & Modern Web (growing)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma&theme=dark" alt="HTML5 CSS3 JavaScript TypeScript React Next.js Tailwind Git GitHub Figma"/>
-</p>
+**Front-End & Modern Web** *(growing)*
+<p><img src="./assets/skills/skills-frontend.png" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js" height="128"/></p>
 
-### CMS, E-commerce & Design (core expertise)
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,shopify,figma,canva&theme=dark" alt="WordPress PHP MySQL Shopify Figma Canva"/>
-</p>
+**CMS, E-commerce & Design** *(core expertise)*
+<p><img src="./assets/skills/skills-cms.png" alt="WordPress, Elementor, WooCommerce, Shopify, Figma, PHP, MySQL" height="128"/></p>
+
+**Tools & Workflow**
+<p><img src="./assets/skills/skills-tools.png" alt="Git, GitHub, GSAP, cPanel" height="128"/></p>
 
 | Area | Skills |
 |---|---|
 | **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript, PHP (WordPress) |
-| **Frameworks & Libraries** | React, Next.js |
+| **Frameworks & Libraries** | React, Next.js, GSAP |
 | **WordPress** | Elementor & Elementor Pro, custom theme customization, plugin integration, WooCommerce, hotel/booking systems |
 | **E-commerce** | WooCommerce, Shopify store design & development |
 | **Design** | UI/UX design, Figma, responsive and mobile-first design, design systems |
 | **Performance & SEO** | On-page SEO, Core Web Vitals, speed optimization, caching, image optimization |
 | **Security** | WordPress hardening, malware cleanup, backups, security setup |
-| **Tools** | Git, GitHub, VS Code, Chrome DevTools |
+| **Tools** | Git, GitHub, VS Code, Chrome DevTools, cPanel, phpMyAdmin |
 | **Soft skills** | Team leadership, client communication, problem-solving, remote collaboration |
 
 > 🚀 **Next on my roadmap:** Node.js, Express, REST APIs, MongoDB / PostgreSQL, authentication, testing, deployment (Vercel), CI/CD
+
+---
+
+## 🎓 Certifications & Courses
+
+| Course | Institute / Source | Year |
+|---|---|---|
+| WordPress & Shopify | CodemanBD | 2022 – 2023 |
+| SEO | Mentored by top-rated SEO expert Hridoy Chowdhury | 2023 |
+| Digital Marketing Basics | — | — |
+| UI/UX Design | Ostad | 2024 – 2025 |
+| Full-Stack Web Development | Programming Hero | 2026 – Running |
 
 ---
 
@@ -95,7 +112,7 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 Short one-line description · Live demo · Tech: React, Next.js, TypeScript
 -->
 
-👉 **Full project list:** [View my portfolio](YOUR_PORTFOLIO_LINK)
+👉 **Full project list (live links):** [View my project spreadsheet](https://docs.google.com/spreadsheets/d/1hH4pFqyzEdQ1pDde87K133O_L2zoazILiXIWUjPbnsE/edit?gid=0#gid=0) · [ifahimhasan.com](https://ifahimhasan.com)
 
 ---
 
@@ -112,23 +129,30 @@ Short one-line description · Live demo · Tech: React, Next.js, TypeScript
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahim Hasan GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Fahim Hasan GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
+<p align="center"><sub>Stats load live from GitHub — if a card looks empty right after publishing, refresh in a few seconds.</sub></p>
 
 ---
 
 ## 🤝 Let's Work Together
 
-I'm open to **full-time remote roles** as a **Front-End Developer, WordPress Developer or Junior Full-Stack Developer**.
+<p align="center">
+  <img src="./assets/cta.png" alt="Available for full-time remote roles — let's build something great together" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ifahimhasan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://wa.me/8801986862937"><img src="./assets/buttons/cta-whatsapp.png" height="46" alt="Chat on WhatsApp"/></a>
+  &nbsp;
+  <a href="https://discord.com/"><img src="./assets/buttons/cta-discord.png" height="46" alt="DM on Discord: ifahimhasan"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="./assets/buttons/cta-linkedin.png" height="46" alt="Connect on LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:ifahimhasan.dev@gmail.com"><img src="./assets/buttons/cta-email.png" height="46" alt="Email Me"/></a>
 </p>
 
 <p align="center">
