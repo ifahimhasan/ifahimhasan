@@ -4,20 +4,39 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="./assets/buttons/btn-linkedin.png" height="44" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ifahimhasan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="https://wa.me/8801986862937"><img src="./assets/buttons/btn-whatsapp.png" height="44" alt="WhatsApp"/></a>
+  <a href="https://wa.me/8801986862937">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
   &nbsp;
-  <a href="https://discord.com/"><img src="./assets/buttons/btn-discord.png" height="44" alt="Discord: ifahimhasan"/></a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   &nbsp;
-  <a href="https://ifahimhasan.com"><img src="./assets/buttons/btn-portfolio.png" height="44" alt="Portfolio"/></a>
+  <a href="https://ifahimhasan.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
   &nbsp;
-  <a href="https://github.com/ifahimhasan/ifahimhasan/raw/main/assets/Fahim_Hasan_Resume.pdf"><img src="./assets/buttons/btn-resume.png" height="44" alt="Download Resume"/></a>
+  <a href="https://github.com/ifahimhasan/ifahimhasan/raw/main/assets/Fahim_Hasan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-2196F3?style=flat-square&logo=readme&logoColor=white" alt="Download Resume"/>
+  </a>
 </p>
 <p align="center"><sub>Discord: <code>ifahimhasan</code> — search this username to add me</sub></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=WordPress+%26+Elementor+Pro+Expert;Front-End+Developer+%7C+React+%26+Next.js;UI%2FUX+Designer+%7C+Figma;Learning+Full-Stack+Development+in+Public;Open+to+Remote+Opportunities+Worldwide" alt="Typing animation of roles"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Fahim Hasan GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 ---
@@ -39,34 +58,22 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 ## 🛠️ Tech Stack
 
 **Front-End & Modern Web** *(growing)*
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,responsive&perline=7" alt="Frontend Tech Stack"/>
 </p>
 
 **CMS, E-commerce & Design** *(core expertise)*
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,figma,php,mysql&perline=4" alt="CMS & Design Stack"/>
+  <img src="https://img.shields.io/badge/Elementor%20Pro-9C27B0?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor Pro"/>
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
   <img src="https://img.shields.io/badge/Shopify-96BE04?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 **Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
-  <img src="https://img.shields.io/badge/cPanel-FF6B6B?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome&perline=4" alt="Tools & Workflow"/>
+  <img src="https://img.shields.io/badge/cPanel-FF9800?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 </p>
 
@@ -149,19 +156,6 @@ Short one-line description · Live demo · Tech: React, Next.js, TypeScript
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Fahim Hasan GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-<p align="center"><sub>Stats load live from GitHub — if a card looks empty right after publishing, refresh in a few seconds.</sub></p>
-
----
-
 ## 🤝 Let's Work Together
 
 <p align="center">
@@ -169,13 +163,21 @@ Short one-line description · Live demo · Tech: React, Next.js, TypeScript
 </p>
 
 <p align="center">
-  <a href="https://wa.me/8801986862937"><img src="./assets/buttons/cta-whatsapp.png" height="46" alt="Chat on WhatsApp"/></a>
+  <a href="https://wa.me/8801986862937">
+    <img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
   &nbsp;
-  <a href="https://discord.com/"><img src="./assets/buttons/cta-discord.png" height="46" alt="DM on Discord: ifahimhasan"/></a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/DM%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="./assets/buttons/cta-linkedin.png" height="46" alt="Connect on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ifahimhasan">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <a href="mailto:ifahimhasan.dev@gmail.com"><img src="./assets/buttons/cta-email.png" height="46" alt="Email Me"/></a>
+  <a href="mailto:ifahimhasan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
