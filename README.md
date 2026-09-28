@@ -1,0 +1,142 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Fahim Hasan – WordPress & Elementor Expert and Full-Stack Developer (React, Next.js, TypeScript)" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-View%20Projects-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=WordPress+%26+Elementor+Pro+Expert;Front-End+Developer+%7C+React+%26+Next.js;UI%2FUX+Designer+%7C+Figma;Learning+Full-Stack+Development+in+Public;Open+to+Remote+Opportunities+Worldwide" alt="Typing animation of roles"/>
+</p>
+
+---
+
+## 👋 About Me
+
+I'm **Fahim Hasan**, a **WordPress Developer, Elementor Expert and UI/UX Designer** with **4+ years of remote experience** and **100+ projects** delivered for clients in the **UK, USA, Qatar and France**. I'm now growing into a **Full-Stack Developer** with **HTML5, CSS3, JavaScript, TypeScript, React and Next.js**.
+
+I turn business requirements into fast, secure, SEO-friendly websites: hotel booking systems, e-commerce stores, SaaS platforms and business sites. I enjoy solving problems, and I like taking a design from Figma to a pixel-perfect, high-performance build.
+
+- 🔭 **Currently:** WordPress Developer at **SEOSkit**
+- 🌱 **Learning:** Full-Stack Development (React · Next.js · TypeScript, with backend and databases next)
+- 🌍 **Working style:** remote-first, async-friendly, English communication, client-facing experience
+- 🎯 **Looking for:** full-time **remote** Front-End / WordPress / Full-Stack roles with USA, UK and worldwide teams
+- 🎓 **Education:** B.Sc. in Electrical & Electronic Engineering (EEE), American International University-Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-End & Modern Web (growing)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma&theme=dark" alt="HTML5 CSS3 JavaScript TypeScript React Next.js Tailwind Git GitHub Figma"/>
+</p>
+
+### CMS, E-commerce & Design (core expertise)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,shopify,figma,canva&theme=dark" alt="WordPress PHP MySQL Shopify Figma Canva"/>
+</p>
+
+| Area | Skills |
+|---|---|
+| **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript, PHP (WordPress) |
+| **Frameworks & Libraries** | React, Next.js |
+| **WordPress** | Elementor & Elementor Pro, custom theme customization, plugin integration, WooCommerce, hotel/booking systems |
+| **E-commerce** | WooCommerce, Shopify store design & development |
+| **Design** | UI/UX design, Figma, responsive and mobile-first design, design systems |
+| **Performance & SEO** | On-page SEO, Core Web Vitals, speed optimization, caching, image optimization |
+| **Security** | WordPress hardening, malware cleanup, backups, security setup |
+| **Tools** | Git, GitHub, VS Code, Chrome DevTools |
+| **Soft skills** | Team leadership, client communication, problem-solving, remote collaboration |
+
+> 🚀 **Next on my roadmap:** Node.js, Express, REST APIs, MongoDB / PostgreSQL, authentication, testing, deployment (Vercel), CI/CD
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 WordPress Developer: **SEOSkit** *(1+ year, ongoing)*
+- Building and maintaining WordPress sites, with a focus on speed, SEO and conversion.
+
+### 🔹 WordPress Developer (Part-time): **Arteousbd**
+- Delivering WordPress and Elementor builds alongside full-time work.
+
+### 🔹 Elementor Expert: **Ruwaifi Studio Ltd** *(project-based, ~6 months)*
+- Designed and developed custom Elementor Pro websites from design briefs.
+
+### 🔹 WordPress & UI/UX Designer, Team Leader (Remote): **RankUp, UK** *(~3 years)*
+- Worked remotely in the dev team of a top-rated freelancer / SEO expert, delivering projects for international clients.
+- Led work across design, development, SEO, speed optimization, security and malware cleanup.
+
+### 🔹 Customer Support Associate: **ShopUp** and **Grameenphone Bangladesh** *(~1 year 8 months)*
+- Live chat and email support. Built the communication, empathy and problem-solving skills I now bring to client work.
+
+---
+
+## 🌟 Selected Work
+
+> 💡 *Client work spans hotel booking systems, e-commerce, business/portfolio sites and SaaS platforms.*
+
+| Project type | What I built | Stack |
+|---|---|---|
+| 🏨 **Hotel Booking Website** (Qatar) | Booking system with integrations, responsive UI | WordPress, Elementor Pro |
+| 🛒 **E-commerce Stores** | Product catalog, checkout, speed and SEO tuning | WooCommerce, Shopify |
+| 🏢 **Business & Portfolio Sites** | Brand-focused, conversion-driven websites | WordPress, Elementor, Figma |
+| 💻 **SaaS Landing Pages** | Clean UI/UX and high-performance pages | WordPress, Figma |
+| ⚛️ **Front-End Practice Projects** | Learning-in-public builds *(add repo links below)* | React, Next.js, TypeScript |
+
+<!-- Replace with real repos as you build them, e.g.
+### 📌 Pinned: project-name
+Short one-line description · Live demo · Tech: React, Next.js, TypeScript
+-->
+
+👉 **Full project list:** [View my portfolio](YOUR_PORTFOLIO_LINK)
+
+---
+
+## 📈 What I Bring to a Team
+
+- ✅ **Speed and SEO by default:** fast-loading, search-friendly builds
+- ✅ **Design + code:** I move from Figma to production without hand-off friction
+- ✅ **Client-proven:** 100+ projects with international clients across 4 countries
+- ✅ **Leadership:** team lead experience in a remote setting
+- ✅ **Growth mindset:** actively leveling up into modern JavaScript, TypeScript, React and Next.js
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahim Hasan GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to **full-time remote roles** as a **Front-End Developer, WordPress Developer or Junior Full-Stack Developer**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifahimhasan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ifahimhasan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ifahimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<!--
+KEYWORDS (SEO): Fahim Hasan, WordPress Developer, Elementor Expert, Elementor Pro, Front-End Developer,
+React Developer, Next.js Developer, TypeScript, JavaScript, HTML5, CSS3, Full-Stack Developer, UI/UX Designer,
+Figma, WooCommerce, Shopify, Website Speed Optimization, WordPress SEO, Remote Developer, Bangladesh
+-->
