@@ -62,24 +62,13 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 ## 🛠️ Tech Stack
 
 **Front-End & Modern Web** *(growing)*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" height="48" alt="Frontend Tech Stack"/>
-</p>
+<p><img src="./assets/skills/skills-frontend.png" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js" height="128"/></p>
 
 **CMS, E-commerce & Design** *(core expertise)*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,figma,php,mysql&perline=4" height="48" alt="CMS & Design Stack"/>
-  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=elementor&logoColor=white" height="48" alt="Elementor Pro"/>
-  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=woocommerce&logoColor=white" height="48" alt="WooCommerce"/>
-  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=shopify&logoColor=white" height="48" alt="Shopify"/>
-</p>
+<p><img src="./assets/skills/skills-cms.png" alt="WordPress, Elementor, WooCommerce, Shopify, Figma, PHP, MySQL" height="128"/></p>
 
 **Tools & Workflow**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="48" alt="Tools & Workflow"/>
-  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=cpanel&logoColor=white" height="48" alt="cPanel"/>
-  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=greensock&logoColor=white" height="48" alt="GSAP"/>
-</p>
+<p><img src="./assets/skills/skills-tools.png" alt="Git, GitHub, GSAP, cPanel" height="128"/></p>
 
 | Area | Skills |
 |---|---|
