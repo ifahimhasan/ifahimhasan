@@ -61,14 +61,15 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 
 ## 🛠️ Tech Stack
 
-**Front-End & Modern Web** *(growing)*
-<p><img src="./assets/skills/skills-frontend.png" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js" height="128"/></p>
+### Front-End & Modern Web (growing)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma&theme=dark" alt="HTML5 CSS3 JavaScript TypeScript React Next.js Tailwind Git GitHub Figma"/>
+</p>
 
-**CMS, E-commerce & Design** *(core expertise)*
-<p><img src="./assets/skills/skills-cms.png" alt="WordPress, Elementor, WooCommerce, Shopify, Figma, PHP, MySQL" height="128"/></p>
-
-**Tools & Workflow**
-<p><img src="./assets/skills/skills-tools.png" alt="Git, GitHub, GSAP, cPanel" height="128"/></p>
+### CMS, E-commerce & Design (core expertise)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,shopify,figma,canva&theme=dark" alt="WordPress PHP MySQL Shopify Figma Canva"/>
+</p>
 
 | Area | Skills |
 |---|---|
