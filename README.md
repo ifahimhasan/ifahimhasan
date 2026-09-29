@@ -32,12 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ## 👋 About Me
 
 I'm **Fahim Hasan**, a **WordPress Developer, Elementor Expert and UI/UX Designer** with **4+ years of remote experience** and **100+ projects** delivered for clients in the **UK, USA, Qatar and France**. I'm now growing into a **Full-Stack Developer** with **HTML5, CSS3, JavaScript, TypeScript, React and Next.js**.
@@ -142,6 +136,13 @@ Short one-line description · Live demo · Tech: React, Next.js, TypeScript
 - ✅ **Growth mindset:** actively leveling up into modern JavaScript, TypeScript, React and Next.js  
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
 
 ## 🤝 Let's Work Together
 
