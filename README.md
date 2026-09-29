@@ -38,11 +38,8 @@
   IMPORTANT: replace YOUR-APP.vercel.app with your own Vercel deployment
   of anuraghazra/github-readme-stats (the public instance is rate-limited and often down).
 -->
-<p align="center">
-  <img height="180" src="https://YOUR-APP.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahim Hasan GitHub stats"/>
-  <img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
+<!-- Generated daily by .github/workflows/profile-summary-cards.yml --> 
+<p align="center"> <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Fahim Hasan GitHub stats"/> <img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/> </p>
 ---
 
 ## 👋 About Me
