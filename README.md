@@ -34,9 +34,13 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  IMPORTANT: replace YOUR-APP.vercel.app with your own Vercel deployment
+  of anuraghazra/github-readme-stats (the public instance is rate-limited and often down).
+-->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Fahim Hasan GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
+  <img height="180" src="https://YOUR-APP.vercel.app/api?username=ifahimhasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahim Hasan GitHub stats"/>
+  <img height="180" src="https://YOUR-APP.vercel.app/api/top-langs/?username=ifahimhasan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
@@ -59,22 +63,22 @@ I turn business requirements into fast, secure, SEO-friendly websites: hotel boo
 
 **Front-End & Modern Web** *(growing)*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,responsive&perline=7" alt="Frontend Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" height="48" alt="Frontend Tech Stack"/>
 </p>
 
 **CMS, E-commerce & Design** *(core expertise)*
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,figma,php,mysql&perline=4" alt="CMS & Design Stack"/>
-  <img src="https://img.shields.io/badge/Elementor%20Pro-9C27B0?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor Pro"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
-  <img src="https://img.shields.io/badge/Shopify-96BE04?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,figma,php,mysql&perline=4" height="48" alt="CMS & Design Stack"/>
+  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=elementor&logoColor=white" height="48" alt="Elementor Pro"/>
+  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=woocommerce&logoColor=white" height="48" alt="WooCommerce"/>
+  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=shopify&logoColor=white" height="48" alt="Shopify"/>
 </p>
 
 **Tools & Workflow**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome&perline=4" alt="Tools & Workflow"/>
-  <img src="https://img.shields.io/badge/cPanel-FF9800?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="48" alt="Tools & Workflow"/>
+  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=cpanel&logoColor=white" height="48" alt="cPanel"/>
+  <img src="https://img.shields.io/badge/-%20%20-242938?style=for-the-badge&logo=greensock&logoColor=white" height="48" alt="GSAP"/>
 </p>
 
 | Area | Skills |
