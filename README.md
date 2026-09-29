@@ -34,13 +34,9 @@
 
 ## 📊 GitHub Stats
 
-<!--
-  IMPORTANT: replace YOUR-APP.vercel.app with your own Vercel deployment
-  of anuraghazra/github-readme-stats (the public instance is rate-limited and often down).
--->
-<!-- Generated daily by .github/workflows/profile-summary-cards.yml --> 
-<p align="center"> <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Fahim Hasan GitHub stats"/> <img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/> </p>
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifahimhasan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ## 👋 About Me
 
