@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ifahimhasan/ifahimhasan/raw/main/assets/Fahim_Hasan_Resume.pdf">
+  <a href="assets/Fahim_Hasan_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-2196F3?style=flat-square&logo=readme&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
